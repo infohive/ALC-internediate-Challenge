@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml
+		INJECTED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml
+		INJECTED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml
+		INJECTED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:7:5-29:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\2fbf8b7dacfccc1520c67c0a83df023b9666e62e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\c8ab0e0f95b8b86bdd521e7b52a367e108775c2e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\64e82a4157e4a625ab639bba9b0e676364b1337c\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Chukwunonso Nwankpa\.android\build-cache\e5d68690778ff36ef5b4900ba3dbf0d9c0519337\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\d09797b45f3e5ef562296dfddb1225998ca9510d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\8a8be64fb401667218f60fa0de562076f638e47a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\4a8eb451bbe219a9a3e832a8cc521e2f35fe5a0d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\e579468d6002a9070bee8a87ee432452decc2fb8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\e71a84a394b9ff5abc40c7cbde02ef2316408dbe\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\a65aa67a0140d30f4f4d0bd0999272dad647cf9a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\b94703dc0571251c92c058244ce40b8b676cd1c8\output\AndroidManifest.xml:5:5-19
+	android:label
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:8:9-77
+activity#com.chukwunonsonwankpa.javadevlagos.MainActivity
+ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.chukwunonsonwankpa.javadevlagos.DetailActivity
+ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:21:9-28:20
+	android:label
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:23:13-42
+	android:parentActivityName
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:22:13-78
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:25:13-27:49
+	android:value
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:27:17-46
+	android:name
+		ADDED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml:26:17-63
+uses-sdk
+INJECTED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\2fbf8b7dacfccc1520c67c0a83df023b9666e62e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\c8ab0e0f95b8b86bdd521e7b52a367e108775c2e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\64e82a4157e4a625ab639bba9b0e676364b1337c\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Chukwunonso Nwankpa\.android\build-cache\e5d68690778ff36ef5b4900ba3dbf0d9c0519337\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\d09797b45f3e5ef562296dfddb1225998ca9510d\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\8a8be64fb401667218f60fa0de562076f638e47a\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\4a8eb451bbe219a9a3e832a8cc521e2f35fe5a0d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\e579468d6002a9070bee8a87ee432452decc2fb8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\ee2388d701c05585ab1f68ebe21079410965ee13\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\e71a84a394b9ff5abc40c7cbde02ef2316408dbe\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\a65aa67a0140d30f4f4d0bd0999272dad647cf9a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\b94703dc0571251c92c058244ce40b8b676cd1c8\output\AndroidManifest.xml:3:5-72
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Chukwunonso Nwankpa\.android\build-cache\2fbf8b7dacfccc1520c67c0a83df023b9666e62e\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml
+		INJECTED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml
+		INJECTED from E:\JavaDevLagos\app\src\main\AndroidManifest.xml
